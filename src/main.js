@@ -11,7 +11,6 @@ import { registerPlugins } from '@/plugins'
 import App from './App.vue'
 import '@/styles/app.css';
 import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 // Composables
 import { createApp } from 'vue'

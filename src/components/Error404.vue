@@ -2,7 +2,7 @@
   <HeaderVue />
 
   <div class="w-100 h-100 error404-block d-flex align-center justify-center">
-    <div class="w-100 container bg-light py-5 d-flex flex-column text-center">
+    <div class="w-100 container py-5 d-flex flex-column text-center">
         <div class="w-100 d-flex justify-center mb-4">
             <img :src="errorImage" class="img-fluid error404-image" />
         </div>
